@@ -30,7 +30,7 @@ concise yet helpful summaries, assisting the image creation process by deliverin
 MLTE can be used with any text to image generating models.
 
 
-![Architecture](https://github.com/sai1027/MLTE/blob/main/img/Architecture.png?raw=true)
+![Architecture](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Architecture.png)
 
 
 
@@ -54,7 +54,7 @@ Just give prompt.
 
 As of 31/3/2024 it is giving better results for Hindi language and for Telugu it is under performing. 
 We are trying to improve it.
-![Wrong translation](https://github.com/sai1027/MLTE/blob/main/img/Sample%20Error%20.png?raw=true)
+![Wrong translation](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Sample%20Error%20.png)
 
 <!--
 
@@ -74,13 +74,13 @@ Use the code below to get started with the model.
 
 ### Evaluation
 
-![Evaluation](https://github.com/sai1027/MLTE/blob/main/img/Evaluation%20method%20.png?raw=true)
+![Evaluation](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Evaluation%20method%20.png)
 
 
-![Performance](https://github.com/sai1027/MLTE/blob/main/img/Performance%20Table.png?raw=true)
+![Performance](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Performance%20Table.png)
 
 
 ### Results
 
-![output 1 ](https://github.com/sai1027/MLTE/blob/main/img/Output%20sample%201.png?raw=true)
-![output 2 ](https://github.com/sai1027/MLTE/blob/main/img/Output%20sample%202.png?raw=true)
+![output 1 ](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Output%20sample%201.png)
+![output 2 ](https://github.com/kuldeepkumar03/Multilingual-Text-Enhancer/blob/main/Related%20Images/Output%20sample%202.png)
